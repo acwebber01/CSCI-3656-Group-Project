@@ -1,5 +1,4 @@
-# CSCI-3656-Group-Project
-# Prey Predator Steady State Analysis with NonlinearSolve.jl and DifferentialEquations.jl
+# CSCI-3656-Group-Project: Prey Predator Steady State Analysis with NonlinearSolve.jl and DifferentialEquations.jl
 
 This project demonstrates how to compute and analyze steady state equilibria of classical prey predator systems using the Julia packages **NonlinearSolve.jl** and **DifferentialEquations.jl**. The workflow includes defining nonlinear systems, finding equilibria with multiple solvers, solving the corresponding ODE models, and visualizing the results.
 
