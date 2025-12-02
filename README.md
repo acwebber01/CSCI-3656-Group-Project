@@ -97,7 +97,7 @@ using ProfileSVG
 
 ## License
 
-Add your preferred license here.
+N/A
 
 ## Acknowledgments
 
